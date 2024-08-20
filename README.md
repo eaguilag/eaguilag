@@ -17,7 +17,7 @@ Design background
 
 - :books: In my free time, I love visiting archives.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/elena-aguila-garcia/))
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-elena-aguila-garcia-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/elena-aguila-garcia/])
 
 ---
 
