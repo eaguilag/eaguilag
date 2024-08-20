@@ -1,15 +1,14 @@
 # Hi there! :wave:
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25ndWNxamp4MXlmcGl4NjQ5eGJlNzc3aDVkMWYzYTgzeGdqdG54OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif" alt="Cat on computer" width="60px"/>
-I'm a Data Analyst :bar_chart: from Spain with a background in Design.
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25ndWNxamp4MXlmcGl4NjQ5eGJlNzc3aDVkMWYzYTgzeGdqdG54OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif" alt="Cat on computer" width="30px"/> I'm a Data Analyst :bar_chart: from Spain with a background in Design.
 
 ---
 ## :woman_technologist: About Me :
 
 - :mortar_board: I've just completed the Data Analytics Bootcamp at [Adalab](https://github.com/Adalab/)
 - :telescope: As an enthusiast of programming and data visualization, I am eager to work on projects involving Python, SQL, Tableau, or PowerBI.
-- :seedling: Exploring artificial intelligence and machine learning.
-- :books: In my free time, I love visiting archives.
+- :seedling: I'm excited to explore artificial intelligence and machine learning, which I'll soon be studying in a course at Ironhack.
+- :books: In my free time, I enjoy getting lost in historical archives, much like exploring vast databases.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-elena--aguila--garcia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-aguila-garcia/)
 
 ---
@@ -40,7 +39,7 @@ I'm a Data Analyst :bar_chart: from Spain with a background in Design.
 
 ---
 
-### :dancing_women:	Group Projects:
+### :bricks: Group Projects:
 
 [**CancelInsight:**](https://github.com/ValeFischer/Proyecto_Mod4_DataWizards)
 EDA, data cleaning and transformation of hotel booking records. Analysis of booking status based on seasonality, operational factors, and demographic characteristics of guests, using data visualisation in Power BI to identify patterns that could help reduce cancellation rates.
@@ -50,6 +49,16 @@ EDA, data cleaning and transformation of hotel booking records. Analysis of book
 [**DataStream:**](https://github.com/TaniaGraff/project-da-promo-angela-modulo-2) Data extraction from the MoviesDataset API and web scraping using BeautifulSoup and Selenium. Relational database design, data insertion, and queries to identify the most popular films and shorts, with the aim of selecting content to highlight on a streaming platform.
 
 [**PyGames:**](https://github.com/OrianaSalazarA/proyecto1_grupo1) Development of classic games in Python, using a class that contains the logic for: Rock, Paper, Scissors; Hangman; and Quiz.
+
+---
+
+### :dancing_women: Latest Pair-programming Projects:
+
+[**Happy Holidays!:**](https://public.tableau.com/app/profile/elena.aguila/viz/vacaciones_17213286392290/DashboardHappyHolidays)
+Dashboard in Tableau on the best tourist destinations, analysing data from the World Happiness Report.
+
+[**Data&Cata:**](https://github.com/eaguilag/modulo4-powerbi-pairprogramming)
+Visualisation in Power BI to assess the quality and popularity of Spanish wines, identify trends across different regions and types, and analyse the relationship between price and ratings.
 
 ---
 
