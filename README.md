@@ -15,33 +15,33 @@ I'm a Data Analyst from Spain with a background in Design.
 
 - :books: In my free time, I love visiting archives.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-elena-aguila-garcia-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/elena-aguila-garcia/])
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-elena-aguila-garcia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-aguila-garcia/)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
 
 **Tools:**
-– Git: Version control (GitHub)
-– SQL: CRUD, advanced queries, data modeling
-– Python: Pandas, Numpy, Scipy, Scikit-Learn, Matplotlib, Seaborn, file handling
-– Web Scraping: Beautiful Soup, Selenium
-– APIs: Functionality, authentication
-– Data Visualization: Tableau, Power BI (DAX)
+- Git: Version control (GitHub)
+- SQL: CRUD, advanced queries, data modeling
+- Python: Pandas, Numpy, Scipy, Scikit-Learn, Matplotlib, Seaborn, file handling
+- Web Scraping: Beautiful Soup, Selenium
+- APIs: Functionality, authentication
+- Data Visualization: Tableau, Power BI (DAX)
 
 **Methods and Techniques:**
-– EDA: Exploratory Data Analysis
-– ETL: Extract, Transform, Load
-– Task Automation
-– Pipeline Design
-– Statistical Analysis: Descriptive and inferential statistics
-– Visualisation and Storytelling
+- EDA: Exploratory Data Analysis
+- ETL: Extract, Transform, Load
+- Task Automation
+- Pipeline Design
+- Statistical Analysis: Descriptive and inferential statistics
+- Visualisation and Storytelling
 
 **Methodologies:**
-– Agile Philosophy
-– Scrum Framework
-– Pair Programming
-– Learning-by-Doing
+- Agile Philosophy
+- Scrum Framework
+- Pair Programming
+- Learning-by-Doing
 
 ---
 
