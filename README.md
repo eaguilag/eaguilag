@@ -7,7 +7,7 @@ Design background
 
 ---
 
-## ![Cat on computer](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif= 30x) About Me :
+## ![Cat on computer](hhttps://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25ndWNxamp4MXlmcGl4NjQ5eGJlNzc3aDVkMWYzYTgzeGdqdG54OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif) About Me :
 
 - :mortar_board: I've just finished the Data Analytics Bootcamp at [Adalab](https://github.com/Adalab/
 )
@@ -17,7 +17,7 @@ Design background
 
 - :books: In my free time, I love visiting archives.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/elena-aguila-garcia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-aguila-garcia/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/elena-aguila-garcia/))
 
 ---
 
