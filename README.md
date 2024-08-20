@@ -1,6 +1,6 @@
 <h1>
   Hi there! 👋
-  <img src="https://giphy.com/gifs/uB86ZyWQsnFSGYe2sA" width="30px"/>
+  <iframe src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uB86ZyWQsnFSGYe2sA"></a></p>
 </h1>
 
 Elena Águila García
@@ -46,4 +46,4 @@ Design background
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eaguilag&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?eaguilag=your-github-eaguilag&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaguilag)](https://github.com/anuraghazra/github-readme-stats)
