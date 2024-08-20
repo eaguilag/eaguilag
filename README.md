@@ -1,7 +1,4 @@
-<h1>
-  Hi there! 👋
-  <iframe src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uB86ZyWQsnFSGYe2sA"></a></p>
-</h1>
+# Hi there! 👋
 
 Elena Águila García
 ✨ Data Analyst ✨
@@ -10,7 +7,7 @@ Design background
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me :
+## ![Cat on computer](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif= 30x) About Me :
 
 - :mortar_board: I've just finished the Data Analytics Bootcamp at [Adalab](https://github.com/Adalab/
 )
@@ -45,5 +42,6 @@ Design background
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eaguilag&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaguilag)](https://github.com/anuraghazra/github-readme-stats)
+-->
