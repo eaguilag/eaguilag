@@ -1,13 +1,11 @@
-# Hi there! 👋
+# Hi there! :wave:
 
-Elena Águila García
-✨ Data Analyst ✨
-Python · SQL · Tableau · Power BI
-Design background
+![Cat on computer](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25ndWNxamp4MXlmcGl4NjQ5eGJlNzc3aDVkMWYzYTgzeGdqdG54OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif)
+
+I'm a Data Analyst from Spain with a background in Design.
 
 ---
-
-## ![Cat on computer](hhttps://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25ndWNxamp4MXlmcGl4NjQ5eGJlNzc3aDVkMWYzYTgzeGdqdG54OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif) About Me :
+## About Me :
 
 - :mortar_board: I've just finished the Data Analytics Bootcamp at [Adalab](https://github.com/Adalab/
 )
@@ -21,21 +19,42 @@ Design background
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"  title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"  title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg"  title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"  title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-</div>
+**Tools:**
+– Git: Version control (GitHub)
+– SQL: CRUD, advanced queries, data modeling
+– Python: Pandas, Numpy, Scipy, Scikit-Learn, Matplotlib, Seaborn, file handling
+– Web Scraping: Beautiful Soup, Selenium
+– APIs: Functionality, authentication
+– Data Visualization: Tableau, Power BI (DAX)
+
+**Methods and Techniques:**
+– EDA: Exploratory Data Analysis
+– ETL: Extract, Transform, Load
+– Task Automation
+– Pipeline Design
+– Statistical Analysis: Descriptive and inferential statistics
+– Visualisation and Storytelling
+
+**Methodologies:**
+– Agile Philosophy
+– Scrum Framework
+– Pair Programming
+– Learning-by-Doing
+
+---
+
+### :dancing_women:	Group Projects:
+
+[**CancelInsight:**](https://github.com/ValeFischer/Proyecto_Mod4_DataWizards)
+#EDA, data cleaning and transformation of hotel booking records. Analysis of booking status based on seasonality, operational factors, and demographic characteristics of guests, using data visualisation in #PowerBI to identify patterns that could help reduce cancellation rates.
+
+[**Talent Optimisation:**](https://github.com/LuanaMagnabosco/Project-da-promo-A-modulo-3-team-2) Exploratory data analysis of employees from a technology consultancy. Database design and normalisation, along with the creation of an #ETL process. A/B testing design to test hypotheses regarding employee turnover and job satisfaction.
+
+[**DataStream:**](https://github.com/TaniaGraff/project-da-promo-angela-modulo-2) Data extraction from the #MoviesDataset API and #webscraping using #BeautifulSoup and #Selenium. Relational database design, data insertion, and queries to identify the most popular films and shorts, with the aim of selecting content to highlight on a streaming platform.
+
+[**PyGames:**](https://github.com/OrianaSalazarA/proyecto1_grupo1) Development of classic games in Python, using a class that contains the logic for: Rock, Paper, Scissors; Hangman; and Quiz.
 
 ---
 
