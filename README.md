@@ -1,11 +1,13 @@
-# Hi there! :wave:
+[![Linkedin Badge](https://github.com/eaguilag/eaguilag/blob/main/eaguilag_banner.JPG)](https://www.linkedin.com/in/elena-aguila-garcia/)
+
+# Hi! :wave:
 
 I'm a Data Analyst :bar_chart: from Spain with a background in Design.
 
 
 ## :woman_technologist: About Me :
 
-- :mortar_board: I've just completed the Data Analytics Bootcamp at [Adalab](https://github.com/Adalab/)
+- :mortar_board: I've just completed the Data Analytics Bootcamp at [Adalab](https://github.com/Adalab/).
 - :telescope: As an enthusiast of programming and data visualization, I am eager to work on projects involving Python, SQL, Tableau, or PowerBI.
 - :seedling: I'm excited to explore artificial intelligence and machine learning, which I'll soon be studying in a course at Ironhack.
 - :books: In my free time, I enjoy getting lost in historical archives, much like exploring vast databases.
