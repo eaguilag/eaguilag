@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://github.com/eaguilag/eaguilag/blob/main/eaguilag_banner.JPG)](https://www.linkedin.com/in/elena-aguila-garcia/)
+[![Linkedin](https://github.com/eaguilag/eaguilag/blob/main/eaguilag_banner.jpg)](https://www.linkedin.com/in/elena-aguila-garcia/)
 
 # Hi! :wave:
 
