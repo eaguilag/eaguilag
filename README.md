@@ -21,7 +21,7 @@ I'm a Data Analyst :bar_chart: from Spain with a background in Design.
 - SQL: CRUD, advanced queries, data modeling
 - Python: Pandas, Numpy, Scipy, Scikit-Learn, Matplotlib, Seaborn, file handling
 - Web Scraping: Beautiful Soup, Selenium
-- APIs: Functionality, authentication
+- APIs
 - Data Visualization: Tableau, Power BI (DAX)
 
 **Methods and Techniques:**
