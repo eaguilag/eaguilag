@@ -2,14 +2,14 @@
 
 # Hi! :wave:
 
-I'm a Data Analyst :bar_chart: from Spain with a background in Design and Architecture.
+I'm a Jr Data Analyst :bar_chart: from Spain with a background in STEM and Design.
 
 
 ## :woman_technologist: About Me :
 
-- :mortar_board: I've just completed the Data Analytics Bootcamp at [Adalab](https://github.com/Adalab/).
-- :telescope: As an enthusiast of programming and data visualization, I am eager to work on projects involving Python, SQL, Tableau, or PowerBI.
-- :seedling: I'm' currently exploring artificial intelligence and machine learning in a course at Ironhack.
+- :mortar_board: I've recently completed the Data Analytics Bootcamp at [Adalab](https://adalab.es/).
+- :telescope: I am eager to work on projects involving Python, SQL, Tableau, or Power BI.
+- :seedling: I'm currently deepening my knowledge of SQL and Power BI while exploring machine learning and artificial intelligence.
 - :books: In my free time, I enjoy getting lost in historical archives, much like exploring vast databases.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-elena--aguila--garcia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-aguila-garcia/)
 
@@ -21,7 +21,7 @@ I'm a Data Analyst :bar_chart: from Spain with a background in Design and Archit
 - SQL: CRUD, advanced queries, data modeling
 - Python: Pandas, Numpy, Scipy, Scikit-Learn, Matplotlib, Seaborn, file handling
 - Web Scraping: Beautiful Soup, Selenium
-- APIs
+- Use of APIs
 - Data Visualization: Tableau, Power BI (DAX)
 
 **Methods and Techniques:**
