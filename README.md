@@ -28,8 +28,8 @@ I'm a Jr Data Analyst :bar_chart: from Spain with a background in STEM and Desig
 - EDA: Exploratory Data Analysis
 - ETL: Extract, Transform, Load
 - Task Automation
-- Pipeline Design
 - Statistical Analysis: Descriptive and inferential statistics
+- A/B Testing
 - Visualisation and Storytelling
 
 **Methodologies:**
@@ -53,7 +53,7 @@ EDA, data cleaning and transformation of hotel booking records. Analysis of book
 
 ## :dancing_women: Latest Pair-programming Projects:
 
-[**Happy Holidays!:**](https://public.tableau.com/app/profile/elena.aguila/viz/vacaciones_17213286392290/DashboardHappyHolidays)
+[**Happy Holidays!:**](https://github.com/TaniaGraff/Modulo4_Tableu)
 Dashboard in Tableau on the best tourist destinations, analysing data from the World Happiness Report.
 
 [**Data&Cata:**](https://github.com/eaguilag/modulo4-powerbi-pairprogramming)
