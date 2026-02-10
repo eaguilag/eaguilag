@@ -50,7 +50,7 @@ EDA, data cleaning and transformation of hotel booking records. Analysis of book
 [**PyGames:**](https://github.com/OrianaSalazarA/proyecto1_grupo1) Development of classic games in Python, using a class that contains the logic for: Rock, Paper, Scissors; Hangman; and Quiz.
 
 
-## 🚀 Individual Assessment Projects
+## 🚀 Individual Assessment Projects:
 
 [**Movie Rental Database SQL Querying:**](https://github.com/Adalab/bda-modulo-2-evaluacion-final-eaguilag)
 Interacting with relational databases through SQL to perform queries and extract key business insights from a movie rental store database.
