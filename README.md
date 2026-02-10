@@ -7,9 +7,9 @@ I'm a Jr Data Analyst :bar_chart: from Spain with a background in STEM and Desig
 
 ## :woman_technologist: About Me :
 
-- :mortar_board: I've recently completed the Data Analytics Bootcamp at [Adalab](https://adalab.es/).
-- :telescope: I am eager to work on projects involving Python, SQL, Tableau, or Power BI.
-- :seedling: I'm currently deepening my knowledge of SQL and Power BI while exploring machine learning and artificial intelligence.
+- :mortar_board: I've completed the Data Analytics Bootcamp at [Adalab](https://adalab.es/).
+- :telescope: I am eager to work on projects involving Python, SQL or Power BI.
+- :seedling: I'm currently deepening my data expertise and exploring cloud computing tools through the AWS re/Start program.
 - :books: In my free time, I enjoy getting lost in historical archives, much like exploring vast databases.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-elena--aguila--garcia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-aguila-garcia/)
 
@@ -22,7 +22,7 @@ I'm a Jr Data Analyst :bar_chart: from Spain with a background in STEM and Desig
 - Python: Pandas, Numpy, Scipy, Scikit-Learn, Matplotlib, Seaborn, file handling
 - Web Scraping: Beautiful Soup, Selenium
 - Use of APIs
-- Data Visualization: Tableau, Power BI (DAX)
+- Data Visualization: Power BI (DAX), Tableau, Looker, MicroStrategy
 
 **Methods and Techniques:**
 - EDA: Exploratory Data Analysis
@@ -38,7 +38,6 @@ I'm a Jr Data Analyst :bar_chart: from Spain with a background in STEM and Desig
 - Pair Programming
 - Learning-by-Doing
 
-
 ## :bricks: Group Projects:
 
 [**CancelInsight:**](https://github.com/ValeFischer/Proyecto_Mod4_DataWizards)
@@ -49,6 +48,15 @@ EDA, data cleaning and transformation of hotel booking records. Analysis of book
 [**CinemExtract:**](https://github.com/TaniaGraff/project-da-promo-angela-modulo-2) Data extraction from the MoviesDataset API and web scraping using BeautifulSoup and Selenium. Relational database design, data insertion, and queries to identify the most popular films and shorts, with the aim of selecting content to highlight on a streaming platform.
 
 [**PyGames:**](https://github.com/OrianaSalazarA/proyecto1_grupo1) Development of classic games in Python, using a class that contains the logic for: Rock, Paper, Scissors; Hangman; and Quiz.
+
+
+## 🚀 Individual Assessment Projects
+
+[**Movie Rental Database SQL Querying:**](https://github.com/Adalab/bda-modulo-2-evaluacion-final-eaguilag)
+Interacting with relational databases through SQL to perform queries and extract key business insights from a movie rental store database.
+
+[**Airline Customer Data Transformation:**](https://github.com/Adalab/bda-modulo-3-evaluacion-final-eaguilag)
+Dataset exploration with Python through Exploratory Data Analysis (EDA); data manipulation and transformation utilizing libraries such as Pandas and NumPy; data visualization with Seaborn and Matplotlib; A/B testing techniques, and the ETL (Extraction, Transformation, and Loading) process applied to airline customer data.
 
 
 ## :dancing_women: Latest Pair-programming Projects:
