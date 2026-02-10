@@ -56,7 +56,7 @@ EDA, data cleaning and transformation of hotel booking records. Analysis of book
 Interacting with relational databases through SQL to perform queries and extract key business insights from a movie rental store database.
 
 [**Airline Customer Data Transformation:**](https://github.com/Adalab/bda-modulo-3-evaluacion-final-eaguilag)
-Dataset exploration with Python through Exploratory Data Analysis (EDA); data manipulation and transformation utilizing libraries such as Pandas and NumPy; data visualization with Seaborn and Matplotlib; A/B testing techniques, and the ETL (Extraction, Transformation, and Loading) process applied to airline customer data.
+Dataset exploration with Python through Exploratory Data Analysis (EDA); data manipulation and transformation utilising libraries such as Pandas and NumPy; data visualisation with Seaborn and Matplotlib; A/B testing techniques, and the ETL (Extraction, Transformation, and Loading) process applied to airline customer data.
 
 
 ## :dancing_women: Latest Pair-programming Projects:
